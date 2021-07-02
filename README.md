@@ -1,7 +1,7 @@
 # Comparative-Study-of-Cryptography-Algorithms-and-Its-Applications
 
 ## International Journal of Computer Networks and Communications Security 
-## VOL. 7, NO. 5, MAY 2019, 96–103
+### VOL. 7, NO. 5, MAY 2019, 96–103
 
 In modern world, security is the most valuable term in the field of communication system. Security comes
 along with many technologies and methods, where one of the most secure technologies is Cryptography
