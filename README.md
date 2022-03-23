@@ -1,6 +1,7 @@
 # Comparative-Study-of-Cryptography-Algorithms-and-Its-Applications
 
-## International Journal of Computer Networks and Communications Security 
+## International Journal of Computer Networks and Communications Security
+
 ### VOL. 7, NO. 5, MAY 2019, 96–103
 
 In modern world, security is the most valuable term in the field of communication system. Security comes
@@ -14,3 +15,58 @@ attacks like brute force attack, man in the middle attack, cycle attacks etc., w
 threads. This paper presents the performance analysis, based on different performance metrics and threads,
 of various techniques of cryptographic algorithms and identifies the suitable algorithms for different types
 of applications.
+
+### AUTHOR PROFILES:
+
+### Md Navid Bin Anwar
+
+received Master of Science (M.Sc) in the
+domain of Electrical Engineering,
+Information Technology and
+Computer Engineering from the
+RWTH Aachen University,
+Germany. His research interest
+includes Information Security, Internet of Things
+and wireless sensor networks.
+
+### MAHMUD HASAN
+
+received Bachelor of Science (BSc) in
+Computer Science and
+Engineering from the American
+International University-
+Bangladesh (AIUB) in 2018. His
+research interest includes Systems & Networking,
+Cryptography and Software Engineering.
+
+### MD.MAHADE HASAN
+
+received Bachelor of Science (BSc) in
+Computer Science and
+Engineering from the American
+International University-
+Bangladesh (AIUB) in 2018. His
+research interest includes
+Information Security, Artificial Intelligence and
+Software Engineering.
+
+### S.M.TANJIM HOSSAIN
+
+received Bachelor of Science
+(BSc) in Computer Science and
+Engineering from the American
+International University-
+Bangladesh (AIUB) in 2018. His
+research interest includes Data
+Science, Networking and IOT.
+
+### JAFRIN ZAFAR LOREN
+
+received Bachelor of Science
+(BSc) in Computer Science and
+Engineering from the American
+International University-
+Bangladesh (AIUB) in 2018. Her
+research interest includes
+Networking, Artificial Intelligence and Software
+Engineering.
